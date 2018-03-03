@@ -1,0 +1,68 @@
+style.cssbody
+
+body{
+  background-color: ivory;
+  background: rgb(255,255,240);
+  color: snow;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+h1{
+  font-family: sans-serif;
+  color: purple;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h2 {
+  background-color: snow;
+background: rgb(255,250,250);
+  font-family: sans-serif;
+  color: purple;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: purple;
+}
+a:hover {
+  background-color: snow;
+  background: rgb(250,250,250);
+  text-decoration: none;
+  color: purple;
+}
+p { 
+font-family: sans-serif;
+  color: purple;
+  font-weight: lighter;
+  font-size: 15px;}
+
+ img {background-color: snow;
+background: rgb(250,250,250);}
+
+#banner{
+  text-align: center;
+  background-image: url(https://images.pexels.com/photos/131895/pexels-photo-131895.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb);
+  background-size: cover;
+  padding: 150px;
+  color: purple;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(255, 250, 250);
+  color: snow;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
